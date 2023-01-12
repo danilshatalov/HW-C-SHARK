@@ -1,0 +1,15 @@
+/Users/danilsatalov/Documents/GitHub/HW-C-SHARK/bin/Debug/net7.0/HW-C-SHARK
+/Users/danilsatalov/Documents/GitHub/HW-C-SHARK/bin/Debug/net7.0/HW-C-SHARK.deps.json
+/Users/danilsatalov/Documents/GitHub/HW-C-SHARK/bin/Debug/net7.0/HW-C-SHARK.runtimeconfig.json
+/Users/danilsatalov/Documents/GitHub/HW-C-SHARK/bin/Debug/net7.0/HW-C-SHARK.dll
+/Users/danilsatalov/Documents/GitHub/HW-C-SHARK/bin/Debug/net7.0/HW-C-SHARK.pdb
+/Users/danilsatalov/Documents/GitHub/HW-C-SHARK/obj/Debug/net7.0/HW-C-SHARK.csproj.AssemblyReference.cache
+/Users/danilsatalov/Documents/GitHub/HW-C-SHARK/obj/Debug/net7.0/HW-C-SHARK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilsatalov/Documents/GitHub/HW-C-SHARK/obj/Debug/net7.0/HW-C-SHARK.AssemblyInfoInputs.cache
+/Users/danilsatalov/Documents/GitHub/HW-C-SHARK/obj/Debug/net7.0/HW-C-SHARK.AssemblyInfo.cs
+/Users/danilsatalov/Documents/GitHub/HW-C-SHARK/obj/Debug/net7.0/HW-C-SHARK.csproj.CoreCompileInputs.cache
+/Users/danilsatalov/Documents/GitHub/HW-C-SHARK/obj/Debug/net7.0/HW-C-SHARK.dll
+/Users/danilsatalov/Documents/GitHub/HW-C-SHARK/obj/Debug/net7.0/refint/HW-C-SHARK.dll
+/Users/danilsatalov/Documents/GitHub/HW-C-SHARK/obj/Debug/net7.0/HW-C-SHARK.pdb
+/Users/danilsatalov/Documents/GitHub/HW-C-SHARK/obj/Debug/net7.0/HW-C-SHARK.genruntimeconfig.cache
+/Users/danilsatalov/Documents/GitHub/HW-C-SHARK/obj/Debug/net7.0/ref/HW-C-SHARK.dll
